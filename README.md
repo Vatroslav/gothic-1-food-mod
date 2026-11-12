@@ -29,4 +29,4 @@ The tier idea comes from the alternative mode of the UE4SS mod Food Rework; no c
 
 No UE4SS or other loader is needed. Loading an older save shows the game's different-modlist warning, as with any mod.
 
-Unofficial fan mod, not affiliated with the game's developers or publisher.
+This is an unofficial modification. It is not made, endorsed or supported by THQ Nordic.
