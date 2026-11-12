@@ -12,3 +12,7 @@ Script-only ModKit mod. `FoodScaling/` is the mod package; only that folder goes
 - Scope (agreed 2026-11-12): food that heals over time also heals a share of max health by tier (8/16/30%), same pace, longer duration, one strength slider, hero only. No mana, potion or other changes unless Vatra asks. Drinks and healing plants get the bonus because they share the effect; changing that needs an item check the scripts don't show yet.
 - Other mods' code is a reference only: don't copy it without checking its license.
 - Game behavior claims come from the shipped scripts (`G1R/Script`, also in the official `AlkimiaInteractive/G1R-Modkit` repo) or the ModKit docs, not from memory. Item consumption is native code; scripts only see the effect class and its spec.
+
+## Shared how-to
+
+How Gothic 1 Remake mods are built here (ModKit, hooks, settings, GAS patterns, checks, install), in Croatian: `~/github/game-development/knowledge-base/gothic-1-remake-modovi.md`. Read it before changing this mod or starting a new one, and add new lessons there, not here.
