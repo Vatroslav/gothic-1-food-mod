@@ -1,0 +1,13 @@
+{
+  "name": "FoodScaling",
+  "title": "Food Scaling",
+  "author": "Vatroslav",
+  "description": "Food that heals over time also heals a share of your max health: 8% for weak food, 16% for medium, 30% for strong. The pace stays the same, the healing lasts longer. Drinks and healing plants that heal over time get it too.\n\nAdjust or turn it off in Settings > Game > Food Scaling.",
+  "modVersion": "0.1.0",
+  "scriptPreprocessorDefines": [],
+  "tags": [
+    "Enhancement"
+  ],
+  "loadOrder": "Normal",
+  "dependencies": []
+}
